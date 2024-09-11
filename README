@@ -1,0 +1,30 @@
+ # Análise de Tendências de Popularidade das Linguagens de Programação
+
+Este projeto analisa a popularidade das linguagens de programação Python, Java e C++ ao longo do período de abril de 2019 a abril de 2024, utilizando dados semanais de popularidade. O objetivo é identificar tendências de longo prazo, padrões sazonais e a popularidade relativa das linguagens ao longo do tempo.
+
+## Objetivo
+
+O objetivo desta análise é:
+- Explorar a evolução da popularidade das linguagens Python, Java e C++.
+- Identificar padrões sazonais e flutuações na popularidade.
+- Comparar a popularidade das linguagens em diferentes períodos de tempo.
+- Analisar se há uma tendência clara de aumento ou diminuição na popularidade ao longo do tempo.
+
+## Dados
+
+Os dados utilizados estão no arquivo `trend_over_time.csv`, que contém a popularidade semanal das linguagens de programação Python, Java e C++ de abril de 2019 a abril de 2024.
+
+## Estrutura do Repositório
+
+- `data/`: Contém o arquivo CSV com os dados de entrada.
+- `notebooks/`: Contém o notebook Jupyter com a análise completa.
+- `src/`: Contém scripts Python com funções auxiliares e código de análise.
+- `results/`: Contém os gráficos gerados e o relatório final em formato Markdown.
+- `README.md`: Este arquivo com informações sobre o projeto.
+- `.gitignore`: Arquivo para excluir arquivos não desejados do repositório.
+
+## Instruções para Execução
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
