@@ -1,0 +1,14 @@
+Análise Exploratória dos Dados
+Passos:
+
+Carregamento dos Dados:
+
+Ler o arquivo CSV trend_over_time.csv.
+Verificar a estrutura dos dados e garantir que a coluna de datas esteja no formato correto.
+Exploração Inicial:
+
+Resumo Estatístico: Verificar estatísticas descritivas das colunas de popularidade para Python, Java e C++.
+Visualização Inicial: Plotar gráficos de linha para cada linguagem para observar a evolução geral da popularidade ao longo do tempo.
+Identificação de Valores Ausentes:
+
+Verificar se há valores ausentes ou inconsistências nos dados.
