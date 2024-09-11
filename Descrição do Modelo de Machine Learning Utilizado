@@ -1,0 +1,6 @@
+Descrição do Modelo de Machine Learning Utilizado
+Para esta análise, um modelo de machine learning não é diretamente aplicável. Em vez disso, você usará técnicas de análise de séries temporais para entender as tendências e padrões. Isso pode incluir:
+
+Médias Móveis: Para suavizar e identificar tendências.
+Decomposição de Séries Temporais: Para separar componentes sazonais e de tendência.
+Análise de Sazonalidade: Para identificar padrões repetitivos ao longo das estações do ano.
