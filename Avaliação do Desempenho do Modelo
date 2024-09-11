@@ -1,0 +1,6 @@
+Avaliação do Desempenho do Modelo
+Embora não haja um modelo de machine learning, a avaliação é baseada na análise dos gráficos e nas conclusões extraídas:
+
+Gráficos de Tendência: Para cada linguagem de programação, mostrar como a popularidade evoluiu ao longo do tempo.
+Gráficos de Sazonalidade: Identificar padrões sazonais e flutuações anuais.
+Médias Móveis: Mostrar suavização e identificação de tendências de longo prazo.
