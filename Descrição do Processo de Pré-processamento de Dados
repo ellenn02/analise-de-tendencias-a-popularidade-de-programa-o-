@@ -1,0 +1,15 @@
+ Descrição do Processo de Pré-processamento de Dados
+Passos:
+
+Conversão de Datas:
+
+Converter a coluna de datas para o formato datetime para facilitar a análise temporal.
+Tratamento de Valores Ausentes:
+
+Imputar ou remover valores ausentes conforme apropriado.
+Resampling:
+
+Agrupar os dados semanalmente para verificar se a granularidade é adequada ou se é necessário agrupar por mês para suavização e análise.
+Suavização de Dados:
+
+Aplicar médias móveis (curto e longo prazo) para suavizar flutuações semanais e identificar tendências de longo prazo.
